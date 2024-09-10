@@ -1,5 +1,5 @@
 import React from 'react';
-import Button from 'components/Button';
+import Button from 'components/TheButton/Button.jsx';
 import clsx from 'clsx';
 
 import styles from './Buttons.module.css';
